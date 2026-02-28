@@ -1,0 +1,12 @@
+# Node
+node_modules/
+package-lock.json
+
+# Environment
+.env
+
+# Vite
+dist/
+
+# Logs
+npm-debug.log*
